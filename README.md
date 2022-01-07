@@ -1,7 +1,5 @@
 # Revisiting Group Mobility Modelling- A Systematic Evaluation
 
-<b>Datasets:</b> All used Data sets. (Few are zipped due to size issue, Please uncompress for running python files). <br>
-
 <b>ShapeFiles:</b> Shape files for mapping nodes over the map. <br>
 
 <b>ProcessingFiles:</b> <br>
